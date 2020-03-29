@@ -1,0 +1,130 @@
+                            * {
+                                margin: 0;
+                                padding: 0;
+                            }
+                            
+                            footer {
+                                width: 100%;
+                                clear: both;
+                                position: absolute;
+                                margin-top: 2%;
+                                margin-bottom: 4%;
+                            }
+                            /*Inicio cor do menu*/
+                            
+                            .color {
+                                background-color: #000000;
+                            }
+                            
+                            .color li a {
+                                color: rgb(255, 255, 255);
+                            }
+                            
+                            .colorDown a {
+                                background-color: #000000;
+                            }
+                            /*fim cor do menu*/
+                            /*conatiner banner */
+                            
+                            .containerBanner h5 {
+                                transform: translate(-50%, -50%);
+                                font-family: 'Times New Roman', Times, serif;
+                            }
+                            
+                            .containerBanner h6 {
+                                transform: translate(-50%, -50%);
+                                font-size: small;
+                            }
+                            
+                            .containerBanner div {
+                                position: relative;
+                                top: -80px;
+                                align-items: center;
+                                left: 50%;
+                            }
+                            
+                            .containerBanner {
+                                position: static;
+                                text-align: center;
+                                color: white;
+                                clear: both;
+                            }
+                            
+                            .containerBanner img {
+                                width: 100%;
+                            }
+                            /*fim conatiner banner */
+                            
+                            .container1 {
+                                width: 50%;
+                                margin: 0 auto;
+                            }
+                            /*divImg*/
+                            
+                            .divImg img {
+                                width: 100%;
+                            }
+                            
+                            .divImg p {
+                                text-align: center;
+                            }
+                            /* fim divImg*/
+                            /*inicio estilo text*/
+                            
+                            .centerText {
+                                text-align: center;
+                            }
+                            
+                            .centerText h3 {
+                                font-family: 'Times New Roman', Times, serif;
+                            }
+                            
+                            .centerText h5 {
+                                font-family: fantasy;
+                                opacity: 75%;
+                            }
+                            
+                            .margin {
+                                margin-top: 50px;
+                            }
+                            
+                            .divContact {
+                                float: left;
+                                margin-top: 5%;
+                            }
+                            
+                            .divContact img {
+                                float: left;
+                                margin-right: 6%;
+                            }
+                            
+                            .divContact ul li {
+                                list-style-type: none;
+                                margin: 8px;
+                                text-align: left;
+                            }
+                            
+                            .divForm {
+                                float: right;
+                                margin-bottom: 50px;
+                                margin-top: 5%;
+                            }
+                            /*fim estilo text*/
+                            /*inico icons reder*/
+                            
+                            .redes {
+                                text-align: center;
+                            }
+                            
+                            .redes img {
+                                width: 2%;
+                                opacity: 70%;
+                                color: #CCC;
+                                margin: 2px;
+                            }
+                            
+                            .redes ul li {
+                                list-style-type: none;
+                                display: inline;
+                            }
+                            /*fim icons reder*/
